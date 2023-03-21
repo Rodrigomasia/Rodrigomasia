@@ -1,4 +1,4 @@
-### Hi there 👋 , ** ** I´m Rodrigo Masía ** **
+### Hi there 👋 , I´m Rodrigo Masía
 
 - :key: Data Science | Data Analyst | Business Data Analyst
 - :soccer: I am a sports enthusiast, particularly passionate about soccer.
