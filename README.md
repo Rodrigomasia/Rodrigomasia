@@ -5,5 +5,5 @@
 - :pushpin: Really drawn to data analysis, visualization, story telling, and machine learning 
 - :mortar_board: iCook project - Development of a web application with image recognition through neural networks that generates an algorithm and predicts recipes.
 - :mailbox: masiarodri@hotmail.com
-- :pager: https://www.linkedin.com/in/masiarodrigo/
+- :bookmark: https://www.linkedin.com/in/masiarodrigo/
 - :key: If I can help you with something, I'm available! :blush:
