@@ -1,7 +1,7 @@
 ### Hi there 👋 , ** ** I´m Rodrigo Masía ** **
 
 - :low_brightness: Data Science | Data Analyst | Business Data Analyst
-- :soccer:I am a sports enthusiast, particularly passionate about soccer.
+- :soccer: I am a sports enthusiast, particularly passionate about soccer.
 - :pushpin: Really drawn to data analysis, visualization, story telling, and machine learning 
 - :high_brightness: iCook project - Development of a web application with image recognition through neural networks that generates an algorithm and predicts recipes.
 - :email: masiarodri@hotmail.com
